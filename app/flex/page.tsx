@@ -271,6 +271,7 @@ export default function Page() {
                 <Image
                   src={image.src}
                   alt={image.alt}
+                  key={image.alt}
                   width={30}
                   height={30}
                   className="md:hidden block"
