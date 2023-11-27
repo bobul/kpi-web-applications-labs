@@ -1,11 +1,8 @@
 import { Badge } from "@/components/ui/badge";
 import {
-  CameraIcon,
   GitHubLogoIcon,
   InfoCircledIcon,
-  LightningBoltIcon,
   PersonIcon,
-  PlayIcon
 } from "@radix-ui/react-icons";
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion";
 import Image from "next/image";
@@ -132,7 +129,7 @@ export default function Page() {
       <div className="w-full h-1/4 bg-teal-200 flex justify-around items-center">
         <div className="w-2/3 p-2">
           <h1 className="font-bold md:text-3xl text-sm text-gray-50">Web Applications Playground</h1>
-          <p className="md:text-lg text-xs text-gray-50">Welcome to Lab! Let's look at some technologies.</p>
+          <p className="md:text-lg text-xs text-gray-50">Welcome to Lab! Lets look at some technologies.</p>
         </div>
         <div className="w-48 self-end pb-12 flex">
           <Badge>
@@ -201,7 +198,7 @@ export default function Page() {
             </div>
             <p className="text-teal-800 md:text-base text-xs p-1">
               In the ever-evolving landscape of web development, embracing innovative technologies is the key to staying
-              at the forefront. The tech stack we've curated opens doors to a world of powerful tools and frameworks
+              at the forefront. The tech stack we have curated opens doors to a world of powerful tools and frameworks
               that are shaping the future of the web.
             </p>
           </div>
