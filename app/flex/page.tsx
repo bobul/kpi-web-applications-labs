@@ -205,7 +205,7 @@ export default function Page() {
         </div>
         <div className="w-1/4 h-full overflow-auto bg-teal-300">
           <h1 className="p-2 text-gray-50 md:text-sm text-xs font-bold">
-            Let's look on the cutting-edge technologies:
+            Lets look on the cutting-edge technologies:
           </h1>
           <Accordion type="single" collapsible className="w-full p-1 bg-teal-100 rounded-md text-teal-600">
             <AccordionItem value="item-1">
@@ -217,7 +217,7 @@ export default function Page() {
             <AccordionItem value="item-2">
               <AccordionTrigger>Next.js</AccordionTrigger>
               <AccordionContent>
-                Used by some of the world's largest companies, Next.js enables you
+                Used by some of the worlds largest companies, Next.js enables you
                 to create full-stack Web applications by extending the latest React features,
                 and integrating powerful Rust-based JavaScript tooling for the fastest builds.
               </AccordionContent>
