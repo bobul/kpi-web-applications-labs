@@ -132,7 +132,7 @@ export default function Page() {
             />
         </div>
       </div>
-      <div className="p-12 bg-gray-800 flex md:justify-between md:flex-row flex-col justify-center items-center gap-6">
+      <div className="md:p-16 p-12 bg-gray-800 flex md:justify-between md:flex-row flex-col justify-center items-center gap-6">
         <div className="flex justify-center items-center gap-6">
           <h2 className="md:text-xl text-base uppercase text-gray-400 font-light tracking-widest">
             Nissan
