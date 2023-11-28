@@ -1,36 +1,26 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## NB!
 
-First, run the development server:
+Використано Next.js, Typescript, TailwindCSS, ShadcnUI
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Автор
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Бобулич Ігор
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Хостінг
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+https://kpi-web-applications-labs.vercel.app/
 
-## Learn More
+## ЛАБ 1-2
 
-To learn more about Next.js, take a look at the following resources:
+Лабораторні роботи №1 та №2 зроблено в форматі 2в1, перегляньте результат за відповідними посиланнями.
+Виконана адаптивна верстка, дотримано умови виконання лаборатоних робіт. 
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Скріншоти лабораторної роботи №3
+<p align="center">
+ <img width="500px" src="img-1.png" alt="qr"/>
+</p>
+<p align="center">
+ <img width="300px" src="img-2.png" alt="qr"/>
+</p>
